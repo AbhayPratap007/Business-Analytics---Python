@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Apr 18 23:09:06 2020
-
-@author: Abhinav
-"""
-#Multiple Regression
-
 # Importing the libraries
 import pandas as pd
 import seaborn as sns
