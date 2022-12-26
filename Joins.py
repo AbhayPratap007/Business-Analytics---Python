@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar  1 15:45:30 2020
-
-@author: Abhinav
-"""
-
 #---------------------------------Joins----------------------------------------
 #We can merge two data frames in python by using the merge() function of pandas
 #Create dataframe:
