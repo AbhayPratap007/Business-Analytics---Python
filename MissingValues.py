@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar  1 15:50:25 2020
-
-@author: Abhinav
-"""
-
 #--------------------------Handling Missing Values----------------------------
 
 #Counting the Missing Values---------------------------
@@ -111,18 +104,3 @@ info = pd.DataFrame(emp)
 print(info)
 info = info.drop_duplicates()  
 print(info)  
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
