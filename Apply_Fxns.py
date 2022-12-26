@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar  1 15:47:03 2020
-
-@author: Abhinav
-"""
-
 #-----------------Apply Family of Functions--------------------------------
 #To apply our own functions to dataset, pandas provides three functions from
 #apply family of functons: pipe(), apply(), applymap()
