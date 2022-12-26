@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Feb  8 01:46:06 2020
-
-@author: Abhinav
-"""
-
 print("hello world")
 
 #Numbers
