@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 29 17:15:01 2020
-
-@author: Abhinav
-"""
 #Project-1
 from textblob import TextBlob
 
