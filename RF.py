@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 15 20:55:44 2020
-
-@author: Abhinav
-"""
-
 #------------------------------Random Forest--------------------------------
 # Random Forest Classification
 
