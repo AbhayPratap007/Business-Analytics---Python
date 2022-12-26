@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 27 00:35:00 2020
-
-@author: Abhinav
-"""
 #Import Libraries----------
 import pandas as pd 
 from mlxtend.frequent_patterns import apriori, association_rules 
@@ -119,19 +113,6 @@ UK_rules=pd.DataFrame(rules)
 
 #Here Empty DataFrame signifies that none of the Rules in UK satisfy the levels mentioned for 
 #Support & Lift in above freq items sets
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
