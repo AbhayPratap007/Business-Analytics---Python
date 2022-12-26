@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar  1 15:44:25 2020
-
-@author: Abhinav
-"""
 import matplotlib.pyplot as plt
 #-----------------------------------GRAPHS---------------------------------
 
