@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 28 16:14:36 2020
-
-@author: Abhinav
-"""
-
 import wikipedia
 
 #Creating a function to get desired data from wikipedia
