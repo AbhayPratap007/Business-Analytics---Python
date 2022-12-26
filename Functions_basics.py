@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Feb  9 22:02:25 2020
-
-@author: Abhinav
-"""
-
 #abs(): Returns the absolute value of a number.
 #  integer number     
 integer = -20  
