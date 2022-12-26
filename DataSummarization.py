@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar  1 15:38:28 2020
-
-@author: Abhinav
-"""
-
 #-------------------------------Data Summary-------------------------------
 #Describe()- Used to get summary statistics in python.
 #Describe Function gives the mean, std and IQR values.
