@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 28 21:02:51 2020
-
-@author: Abhinav
-"""
 #Import Libraries
 import tweepy
 from textblob import TextBlob
