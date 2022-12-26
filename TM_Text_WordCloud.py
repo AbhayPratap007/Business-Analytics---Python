@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul  2 18:11:20 2020
-
-@author: Abhinav
-"""
-
 #Import the following python libraries.
 from wordcloud import WordCloud, STOPWORDS
 from PIL import Image
