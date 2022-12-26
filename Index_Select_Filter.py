@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar  1 15:47:25 2020
-
-@author: Abhinav
-"""
-
 #------------------------Index, Select & Filter--------------------------------
 #Create dataframe :
 import pandas as pd
