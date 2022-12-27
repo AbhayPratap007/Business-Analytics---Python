@@ -2,7 +2,7 @@
 
 # Importing the libraries
 
-'import matplotlib.pyplot as plt'
+#import matplotlib.pyplot as plt
 import pandas as pd
 
 # Importing the dataset
