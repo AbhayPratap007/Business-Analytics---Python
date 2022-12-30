@@ -62,8 +62,3 @@ print (pd.merge(EmpList_1, EmpList_2, on='Name', how='left'))
 #Right Join using pandas
 #Returns all rows from right table and any rows with matching keys from left table.
 print (pd.merge(EmpList_1, EmpList_2, on='Name', how='right'))
-
-
-
-
-
