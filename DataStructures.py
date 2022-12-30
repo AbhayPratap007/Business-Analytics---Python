@@ -141,8 +141,3 @@ df[['Name','Score']]
 
 #View first two rows of the dataframe in pandas:
 df[:2]
-
-
-
-
-
