@@ -203,7 +203,7 @@ print(logmodel.coef_)
 #Calculating the intercept:
 print(logmodel.intercept_)
 
-#So, it's final Predicitve Modelling Equation becomes:
+#So, it final Predicitve Modelling Equation becomes:
 #Survived = 
 #exp(3.74 -0.03*age -0.27*sibsp -2.52*sex(male) -1.03*pclass(2) -2.1*pclass(3) -0.33*embd(S))
 # \
