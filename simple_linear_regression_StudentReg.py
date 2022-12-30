@@ -48,5 +48,3 @@ print(df1)
 # Visualising the predicted results
 line_chart1 = plt.plot(X_test,y_pred, '--', c ='red')
 line_chart2 = plt.plot(X_test,y_test, ':', c='blue')
-
-#--------------------------------------------------------
