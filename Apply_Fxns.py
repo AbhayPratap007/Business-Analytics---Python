@@ -54,8 +54,3 @@ print (df.applymap(lambda x:x*2))
 #Example2:
 import math as m
 print (df.applymap(lambda x:m.sqrt(x)))
-
-
-
-
-
