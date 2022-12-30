@@ -51,4 +51,3 @@ import matplotlib.pyplot as plt
 line_chart1 = plt.plot(y_pred,X_test, '--',c='green')
 line_chart2 = plt.plot(y_test,X_test, ':', c='red')
 plt.show()
-#------------------------------
